@@ -293,6 +293,8 @@ Please consider the following options:
 <!--#if (RunSolutionScriptsInDedicatedProcess)-->
 ## Solution-specific automation scripts
 
+Note: This feature requires at least DataMiner 10.6.9 (RN 45557).
+
 Automation scripts that should run in the same runner should have the same solution DataMiner solution ID.
 
 There are two ways to specify a DataMiner solution ID on a project:
